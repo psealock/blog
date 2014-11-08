@@ -88,4 +88,4 @@ deploy:
   type: github
   repo: https://github.com/psealock/psealock.github.io.git
   branch: [branch]
-  message: [message]
+  message: update site
