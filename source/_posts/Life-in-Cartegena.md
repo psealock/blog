@@ -3,20 +3,21 @@ title: Life in Cartegena
 date: 2014-11-08 01:28:18
 tags:
 ---
-<!-- <img src="girl.jpg">
-<img src="street.jpg">
- -->
 
  *start a blog*
- `get famous`
- ### do some stuff
- - travel a bunch
- > talk mad shit.
+ `do some cool stuff`
+ ### write about it
+ - have some thoughts
+ > write those
  >
 
 
 
 I used to work at [YouVisit]
+
+```
+$ npm install creatch 's blog' --dev
+```
 
 
 ![A lonely street](/images/street.jpg)
