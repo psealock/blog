@@ -87,5 +87,5 @@ exclude_generator:
 deploy:
   type: github
   repo: https://github.com/psealock/psealock.github.io.git
-  branch: publish
+  branch: master
   message: update site
