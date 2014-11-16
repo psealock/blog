@@ -1,4 +1,4 @@
-title: Budget Visualization Part One
+title: Budget Visualization Part One. D3js and Polymer Web Components
 date: 2014-11-15 07:29:03
 <!-- tags: D3js Polymer Web Components -->
 ---
