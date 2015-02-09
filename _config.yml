@@ -86,6 +86,6 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repo: https://github.com/psealock/psealock.github.io.git
+  # repo: https://github.com/psealock/psealock.github.io.git
   branch: master
   message: update site
